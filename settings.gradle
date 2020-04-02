@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':UICompnment'
 rootProject.name='My Application'
