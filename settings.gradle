@@ -1,2 +1,2 @@
-include ':app', ':UICompnment'
+include ':app', ':UICompnment', ':Intent'
 rootProject.name='My Application'
