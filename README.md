@@ -1,5 +1,13 @@
 # MyApplication
 Android Test 1
+# 实验4 Intent的使用
+首先，创建一个Project，来使用Intent：
+![my](https://raw.githubusercontent.com/jiangyi666/test/master/ex4.1.PNG "Intent的使用")
+再创建一个WebView工程，用来模拟。可是不知道为什么。。。。我的WebView工程一直报这个错误。。。。
+![my](https://raw.githubusercontent.com/jiangyi666/test/master/ex4.3.PNG "错误")
+只能用浏览器打开。。。。
+![my](https://raw.githubusercontent.com/jiangyi666/test/master/4.2.PNG "Intent的使用")
+
 # 实验3
 ## AlertDialog
 ![my](https://raw.githubusercontent.com/jiangyi666/test/master/ex3-2.PNG "AlertDialog")
